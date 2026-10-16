@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Pintar SD",
+  "description": "Game edukasi interaktif Matematika Kelas 6 Fase C Madrasah Ibtidaiyah (MI) Kurikulum Merdeka Semester Ganjil & Genap. Pengembang: Dzakirul Husni, S.Pd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
